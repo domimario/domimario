@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domimario&label=Profile%20views&color=0e75b6&style=flat" alt="domimario" /> </p>
 
-- 🔭 I’m currently working on **Career Crush**
-
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 💬 Ask me about **React , Node , Express , AWS**
+- 💬 Ask me about **React , Node , Express , AWS , Redux ,Javascript,Data Science**
 
 - 📫 How to reach me **mariodomi@tuta.io**
 
