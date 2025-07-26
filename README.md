@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">A passionate frontend developer from Albania</h3>
+<h3 align="center">A passionate tech guy from Albania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domimario&label=Profile%20views&color=0e75b6&style=flat" alt="domimario" /> </p>
 
-- 🌱 I’m currently learning **Data Science & AI**
+- 🌱 **Data Science & Artificial Intelligence**
 
-- 💬 Ask me about **React , Node , Express , AWS , Redux ,Javascript,Data Science**
+- 💬 Ask me about **React , Node , Express , AWS , Redux ,Javascript,Data Science, Models**
 
 - 📫 How to reach me **mariodomi@tuta.io**
 
