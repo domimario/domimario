@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , Node , Express , AWS , Redux ,Javascript,Data Science, Models**
 
-- 📫 How to reach me **mariodomi@tuta.io**
+- 📫 How to reach me **mariodomii@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
